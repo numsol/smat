@@ -1,0 +1,15 @@
+This is the SMAT software package.
+
+SMAT is a simple C program with a configuration file-driven interface 
+supporting matrix multiplication and QR decomposition implemented in 
+Scalapack for the purposes of "burning in" an arbitrary number of 
+cluster nodes while testing performance.
+
+Future improvements will include more LAPACK routines and 
+implementations supporting heterogeneous architectures such as 
+GPGPUs (MAGMA, clMAGMA) and Intel MICs (MAGMA MIC).
+
+----------------------------------------------------------------------
+
+SMAT - Copyright (2014) Anthony B. Costa.
+anthony.costa@numericalsolutions.org, Numerical Solutions, Inc.

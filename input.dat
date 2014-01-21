@@ -1,0 +1,7 @@
+# an example input file testing matrix multiplication
+test_type = "multiply";
+block_size = 64;
+fabric_row = 16;
+fabric_col = 8;
+num_loops = 2;
+size_dim = 100000;
