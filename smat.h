@@ -1,13 +1,3 @@
-/* ----------------------------------------------------------------------
-   SMAT - Copyright (2014) Anthony B. Costa.
-   anthony.costa@numericalsolutions.org, Numerical Solutions, Inc.
-
-   A simple C program with a configuration file-driven interface 
-   supporting matrix multiplication and QR decomposition implemented in 
-   Scalapack for the purposes of "burning in" an arbitrary number of 
-   cluster nodes while testing performance.
-------------------------------------------------------------------------- */
-
 #ifndef SMAT_H
 #define SMAT_H
 
